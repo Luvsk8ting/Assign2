@@ -9,7 +9,7 @@ For each ticket the following information is collected from the user :*/
 #include <string>
 using namespace std;
 
-class Ticket
+class Ticket 
 {
 	static int IDGenerator;
 	int ID;
